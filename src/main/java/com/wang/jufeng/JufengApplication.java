@@ -1,4 +1,4 @@
-package com.wang.jufeng.jufeng;
+package com.wang.jufeng;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
