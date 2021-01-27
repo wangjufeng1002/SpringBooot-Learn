@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
  * @date 2021/1/11 13:03
  * @desc
  */
-@Component
+//@Component
 public class TestBeanNameAware implements BeanNameAware {
     @Override
     public void setBeanName(String name) {
